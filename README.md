@@ -25,7 +25,6 @@ This project analyzes IPL data from 2008 to 2024, answering key questions relate
 - Data Visualization:
   - Seaborn
   - Matplotlib
-  - Plotly (interactive visualizations)
 - Jupyter Notebook
 
 ---
