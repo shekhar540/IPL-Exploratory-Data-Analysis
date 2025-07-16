@@ -66,6 +66,12 @@ Explore the full analysis in the Jupyter Notebook:
 
 ---
 
+## 👨‍💻 Author
+
+**Shekhar Mishra**
+
+---
+
 ## 🚀 Getting Started
 
 1. Clone the repository:
